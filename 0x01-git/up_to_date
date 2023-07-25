@@ -1,1 +1,1 @@
-git fetch origin master
+echo "git fetch origin master" > up_to_date
